@@ -21,6 +21,7 @@
     "ext-mbstring": "*"
   },
   "require-dev": {
+    "phparkitect/phparkitect": "^0.3",
     "phpunit/phpunit": "^9.6"
   }
 }
